@@ -1,11 +1,9 @@
 //
-//  PlaySoundViewControllerExtension.swift
-//  Pitch_Perfect
+//  PlaySoundsViewController+Audio.swift
+//  PitchPerfect
 //
-//  Created by Julia Debecka on 28/06/2020.
-//  Copyright © 2020 Julia Debecka. All rights reserved.
+//  Copyright Â© 2016 Udacity. All rights reserved.
 //
-
 import UIKit
 import AVFoundation
 
